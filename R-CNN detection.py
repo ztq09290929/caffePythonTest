@@ -15,4 +15,5 @@ import caffe
 import CaffePythonTools as mytools
 import os
 os.chdir('/home/ztq/caffe')
+import detect
 
